@@ -1,11 +1,16 @@
 _repo: The-West-Indies-Being-a-Description-of-the-Islands-Progress-of-Christianity-Education-and-Lib__63216
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63216-h/images/cover.jpg
 creator:
   author:
     agent_name: Prince, Nancy Gardner
     gutenberg_agent_id: '52331'
     url: http://www.gutenberg.org/2009/agents/52331
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63216#The-West-Indies-Being-a-Description-of-the-Islands-Progress-of-Christianity-Education-and-Lib_
 gutenberg_issued: '2020-09-16'
 gutenberg_type: Text
 identifiers:
